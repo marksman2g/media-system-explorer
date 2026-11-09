@@ -1,0 +1,311 @@
+[
+  {
+    "id": "external",
+    "lane": "access",
+    "title": "1 \u00b7 External server first",
+    "desc": "No home NAS is required.",
+    "leaves": [
+      {
+        "title": "The actual flow",
+        "lead": "Provider \u2192 account \u2192 player \u2192 your screen.",
+        "detail": "The provider supplies the stream or remote library. You normally keep no movie files at home. A server invitation, IPTV playlist and commercial streaming subscription use different protocols and account systems; a single app does not automatically merge them.",
+        "keys": "F1 J1 P1",
+        "tags": ""
+      },
+      {
+        "title": "Five connections are not five customers",
+        "lead": "Independent access requires independent upstream identities.",
+        "detail": "One shared username with five simultaneous connections remains one identity. Removing a player playlist does not revoke a copied URL. The provider must issue five separate accounts or revocable device tokens, or explicitly authorize a correctly designed gateway. Player activation and content authorization are separate.",
+        "keys": "F1 F9",
+        "tags": ""
+      },
+      {
+        "title": "The pass/fail test",
+        "lead": "Suspend C; A, B, D and E must keep working.",
+        "detail": "Test both new and active sessions. Reset C, check its old credential fails, then restore it. Record device allowance, stream limit and expiration separately. Never store live passwords in this HTML file.",
+        "keys": "",
+        "tags": ""
+      },
+      {
+        "title": "Diagnose before changing players",
+        "lead": "Compare the same authorized source in two clients.",
+        "detail": "Keep device, network and time close. If both fail, investigate upstream service, credentials, concurrency or network. If only Flix fails, investigate its profile, version and codec support. A new paid activation does not repair an upstream outage.",
+        "keys": "",
+        "tags": ""
+      }
+    ]
+  },
+  {
+    "id": "players",
+    "lane": "access",
+    "title": "2 \u00b7 Flix Pro alternatives",
+    "desc": "Ten same-category players; free-first.",
+    "leaves": [
+      {
+        "title": "Free-first candidates",
+        "lead": "VLC \u00b7 Kodi \u00b7 IPTVnator \u00b7 SS IPTV",
+        "detail": "These can play compatible external streams/playlists but are not universal customer provisioning consoles. Their actual platform scope is listed in the report. IPTVnator is primarily desktop/web, not a verified native client for every TV. Free and widely available does not mean a complete managed reseller solution.",
+        "keys": "F6 F7 F8 F9 F10",
+        "tags": ""
+      },
+      {
+        "title": "Freemium and paid candidates",
+        "lead": "Televizo \u00b7 TiviMate \u00b7 iMPlayer \u00b7 Smarters Pro",
+        "detail": "Choose by exact device and required features. iMPlayer offers central device configuration on supported platforms; this still cannot revoke shared upstream credentials. Do not assume every free tier includes multi-device management.",
+        "keys": "F2 F3 F4 F5",
+        "tags": ""
+      },
+      {
+        "title": "Smart-TV activation alternatives",
+        "lead": "SmartOne IPTV \u00b7 IBO Player",
+        "detail": "Device activation and playlist control can suit compatible televisions. Check exact store listing, manufacturer, country, trial and price. Similarly named products are not automatically the same vendor.",
+        "keys": "F11 F12 F13 F14",
+        "tags": ""
+      },
+      {
+        "title": "Different category: remote media servers",
+        "lead": "Jellyfin \u00b7 Plex \u00b7 Emby",
+        "detail": "These serve a host\u2019s file library to matching clients. An invitation is not interchangeable with an M3U playlist or Xtream-style login. The owner controls available users, library, downloads and uptime.",
+        "keys": "J1 P3 E1",
+        "tags": ""
+      }
+    ]
+  },
+  {
+    "id": "sources",
+    "lane": "access",
+    "title": "3 \u00b7 How media arrives",
+    "desc": "Twenty routes, with files distinguished from access.",
+    "leaves": [
+      {
+        "title": "Discs and recordings",
+        "lead": "DVD \u00b7 Blu-ray/UHD \u00b7 antenna tuner \u00b7 VHS/home video",
+        "detail": "Unprotected or authorized sources can become files through a compatible drive or capture/recording system. HandBrake encodes; it does not itself remove DRM. TV recording needs reception, tuner compatibility and storage; encrypted ATSC 3.0 can be a blocker.",
+        "keys": "A1 A2 A3 A4",
+        "tags": ""
+      },
+      {
+        "title": "Downloadable files",
+        "lead": "Archive \u00b7 Library of Congress \u00b7 NASA \u00b7 music stores",
+        "detail": "Review each item\u2019s rights and actual download format. Bandcamp and Qobuz download-store purchases can deliver files; purchase of a stream-only subscription is a different product. Preserve creator permissions and original home recordings.",
+        "keys": "A5 A6 A7 A8 A9",
+        "tags": ""
+      },
+      {
+        "title": "Other file paths",
+        "lead": "Camera \u00b7 screen capture \u00b7 podcasts \u00b7 USB \u00b7 family/cloud delivery",
+        "detail": "The report includes equipment, intake flow, approximate costs and practical limitations. Each authorized file goes through verification before metadata and library import. A file license does not transfer the creator\u2019s copyright.",
+        "keys": "A2 T12",
+        "tags": ""
+      },
+      {
+        "title": "Access without ownership",
+        "lead": "Tubi \u00b7 Netflix \u00b7 remote server invitation \u00b7 licensed IPTV",
+        "detail": "Provider stream or app-controlled offline cache stays within the service\u2019s rules. No home NAS is needed. Sonarr/Radarr cannot turn a subscription into a collection you own. Vimeo On Demand is not a new-purchase route: new purchases stopped September 21, 2026.",
+        "keys": "A10 A11 A13 A14",
+        "tags": ""
+      }
+    ]
+  },
+  {
+    "id": "torrents",
+    "lane": "access",
+    "title": "4 \u00b7 Torrent research & Reddit",
+    "desc": "Specific sources plus verified integration limits.",
+    "leaves": [
+      {
+        "title": "The automation chain",
+        "lead": "Prowlarr \u2192 Sonarr/Radarr \u2192 qBittorrent \u2192 files",
+        "detail": "Prowlarr manages indexers. Sonarr handles TV monitoring/import; Radarr handles movies. qBittorrent transfers. These are different jobs. Download the apps from official project sites, not torrent listings. Start with one clearly authorized sample.",
+        "keys": "T1 T2 T5 D2",
+        "tags": ""
+      },
+      {
+        "title": "Six sources researched",
+        "lead": "Internet Archive \u00b7 1337x \u00b7 Nyaa.si \u00b7 TorrentLeech \u00b7 EZTV \u00b7 YTS",
+        "detail": "Archive is a rights-checked direct torrent/manual-import route. Maintained Prowlarr definitions were checked for the other five. Nyaa is specialist; EZTV is TV; YTS is compact movies; TorrentLeech needs legitimate private access. A maintained definition is not an uptime test or copyright license.",
+        "keys": "D1 D4 D5 D6 D7 D8",
+        "tags": ""
+      },
+      {
+        "title": "What community threads suggest",
+        "lead": "qBittorrent is repeatedly suggested; Usenet opinions differ.",
+        "detail": "The reviewed Reddit sample is qualitative, not a census. Some users favor paid Usenet indexers; others say torrents meet their needs. Reported problems include wrong movie matching, domain/challenge failures, hard-link cleanup and seeding obligations. Exact dates are not invented when cached pages show only relative age.",
+        "keys": "U5 U6 U7 U8 U9",
+        "tags": ""
+      },
+      {
+        "title": "Outdated lists and safe operation",
+        "lead": "Do not treat RARBG clones or an unverified TGx continuation as trusted.",
+        "detail": "The original RARBG closure is documented historically. TorrentGalaxy had serious 2025 outages; a genuine dependable current continuation was not verified. Avoid executable/codec prompts. Keep administration private. Use qBittorrent\u2019s intended VPN interface and test disconnect behavior.",
+        "keys": "U10 D10 D3",
+        "tags": ""
+      },
+      {
+        "title": "Usenet or rented compute",
+        "lead": "SABnzbd is a different downloader; a remote host can store files.",
+        "detail": "Usenet needs an indexer and a provider, not just SABnzbd. Budget figures in the report are allowances. A rented server that you administer can run the stack without a home NAS, subject to its contract. A read-only upstream IPTV or Plex account normally cannot.",
+        "keys": "D9",
+        "tags": ""
+      }
+    ]
+  },
+  {
+    "id": "storage",
+    "lane": "owned",
+    "title": "5 \u00b7 Own storage only when useful",
+    "desc": "Ten actual HDD bays; 10GbE required.",
+    "leaves": [
+      {
+        "title": "Chosen architecture",
+        "lead": "AS6810T storage + separate Intel graphics-capable media host",
+        "detail": "The ten-HDD-bay AS6810T has built-in 10GbE but no integrated video GPU. Separate compute makes transcoding upgrades independent of storage. The exact disk SKU, host codec support and five-stream workload still require real validation.",
+        "keys": "N1 N12 J3",
+        "tags": ""
+      },
+      {
+        "title": "Starting disks and protection",
+        "lead": "Four equal approved CMR drives, RAID6; keep working space free.",
+        "detail": "Four drives permit dual parity from day one. Three drives would mean a different protection choice, such as RAID5. RAID is availability protection, not backup. Add a UPS, health monitoring, configuration backups and protected copies of irreplaceable media.",
+        "keys": "",
+        "tags": ""
+      },
+      {
+        "title": "Capacity arithmetic",
+        "lead": "10 \u00d7 26 TB = 260 TB raw \u2192 208 TB after dual parity",
+        "detail": "208 decimal TB is about 189.2 TiB before filesystem overhead. Keeping 20% free leaves about 166.4 TB for comfortable working data. A genuine 200 TB working target needs more capacity. The 26 TB disks are illustrative, not confirmed AS6810T compatibility.",
+        "keys": "",
+        "tags": ""
+      },
+      {
+        "title": "Ten-model comparison",
+        "lead": "Only one clearly current exact-ten fit was verified.",
+        "detail": "The report ranks AS6810T, TS-1655, DS2422+, DS3622xs+, TVS-AIh1688ATX, TVS-h874, AS6510T, TS-1273AU-RP, TS-1232PXU-RP and DS1825+. Older stock and 8-/12-bay alternatives are labelled; SSD slots are not counted as large HDD bays.",
+        "keys": "",
+        "tags": ""
+      },
+      {
+        "title": "Budget warning",
+        "lead": "Example starting package: about $8,003\u20139,043 before tax.",
+        "detail": "This uses listed AS6810T pricing and four unusually expensive example 26 TB disks, plus host/network/UPS/limited backup allowances. It is not a fixed quote or approved shopping cart. No equipment was purchased; verify compatible capacity and value before committing.",
+        "keys": "C1 C8",
+        "tags": ""
+      }
+    ]
+  },
+  {
+    "id": "growth",
+    "lane": "owned",
+    "title": "6 \u00b7 Grow without starting over",
+    "desc": "One catalog does not mean one storage pool.",
+    "leaves": [
+      {
+        "title": "Add drives inside the first box",
+        "lead": "Expansion reshapes/rebalances data; it does not normally erase it.",
+        "detail": "Supported expansion depends on the OS, RAID type, healthy starting state and eligible drive sizes. At 100\u2013200 MB/s, one full 26 TB pass is roughly 72\u201336 hours; actual reshape can take days and reduce performance. Backup first, expand one supported step at a time.",
+        "keys": "R1 R2 R3 R8",
+        "tags": ""
+      },
+      {
+        "title": "Add a second standalone NAS",
+        "lead": "NAS1 + NAS2 \u2192 stable SMB/NFS mounts \u2192 one server library",
+        "detail": "Two separate protected storage pools, one movie/TV catalog. If NAS2 fails, its titles are unavailable, while healthy NAS1 content should remain usable. Protect the central server database and test its handling of an offline mount before cleanup.",
+        "keys": "",
+        "tags": ""
+      },
+      {
+        "title": "Expansion enclosure tradeoff",
+        "lead": "A compatible shelf shares the host\u2019s availability and connector limits.",
+        "detail": "It is not a standalone NAS. AS6004U uses USB 5Gbps, not 10GbE, and adds independent external storage spaces. Supported AS6810T expansion is up to 22 HDDs total. Synology/QNAP shelves must match the exact host, connector and firmware.",
+        "keys": "R10 R11 N1",
+        "tags": ""
+      },
+      {
+        "title": "Software unification",
+        "lead": "Library aggregation is simplest; mergerfs is optional.",
+        "detail": "A unified folder view does not create redundancy, merge performance, or erase separate failure domains. Distributed storage adds significant networking and recovery complexity; two linked boxes are not automatically a resilient cluster.",
+        "keys": "R9",
+        "tags": ""
+      }
+    ]
+  },
+  {
+    "id": "playback",
+    "lane": "owned",
+    "title": "7 \u00b7 Network, serving & playback",
+    "desc": "Local speed, internet speed and decoding are separate.",
+    "leaves": [
+      {
+        "title": "10GbE end to end",
+        "lead": "NAS port \u2192 matching cable/switch \u2192 host 10Gb NIC",
+        "detail": "Use compatible RJ45/Cat6a, or matched SFP+ NICs and DAC/fiber where appropriate. Budget the card, switch, transceivers and UPS. Link negotiation does not guarantee disks sustain 10Gb. Ethernet link aggregation is not automatically a faster single stream.",
+        "keys": "",
+        "tags": ""
+      },
+      {
+        "title": "Five remote viewers",
+        "lead": "Illustrative 1080p: 5 \u00d7 8 Mbps = 40 Mbps payload",
+        "detail": "Plan around 60 Mbps stable upload for that example. Five 80 Mbps 4K streams need 400 Mbps payload and roughly 550\u2013600 Mbps allowance. Actual source bitrate and seeking bursts vary. A 10Gb LAN never upgrades your internet upload.",
+        "keys": "",
+        "tags": ""
+      },
+      {
+        "title": "Direct play versus conversion",
+        "lead": "A compatible client avoids unnecessary video transcoding.",
+        "detail": "Direct play sends the original for the device to decode. Transcoding changes the video and may require GPU support. HDR tone mapping and subtitle burn-in can make a workload harder. NAS model names do not establish a universal stream count.",
+        "keys": "J3 J4",
+        "tags": ""
+      },
+      {
+        "title": "Jellyfin / Plex / Emby",
+        "lead": "Free-first Jellyfin; Plex for demonstrated client fit; Emby as an alternative",
+        "detail": "Use the exact platform matrix in the report. Jellyfin official components are free. Plex hardware acceleration and remote-viewing rules are distinct. Current Remote Watch Pass: $2.99/month or $29.99/year; administrator Plex Pass can qualify viewers. Emby paid features have household/device terms.",
+        "keys": "J1 J2 P1 E1 E2",
+        "tags": ""
+      },
+      {
+        "title": "PIA needs careful routing",
+        "lead": "Isolate the approved download route, not every service.",
+        "detail": "Full-tunnel VPN and kill-switch rules can disrupt LAN shares, discovery and inbound remote playback. PIA is not automatically a private mesh. Test the final routing; do not expose NAS administration to the public internet.",
+        "keys": "V1 V2",
+        "tags": ""
+      }
+    ]
+  },
+  {
+    "id": "operations",
+    "lane": "owned",
+    "title": "8 \u00b7 Organization, safety & acceptance",
+    "desc": "A small working system beats unnecessary automation.",
+    "leaves": [
+      {
+        "title": "Essential foundation",
+        "lead": "Clean folders \u00b7 correct metadata \u00b7 independent accounts \u00b7 backups",
+        "detail": "Separate Movies, TV, Music, Home Video and Recordings. Use one naming authority. Server playback should normally have read access; organizers get scoped write access. Restore-test both files and server configuration.",
+        "keys": "",
+        "tags": ""
+      },
+      {
+        "title": "Optional helpers",
+        "lead": "Bazarr \u00b7 Seerr \u00b7 Tautulli \u00b7 Kometa \u00b7 Tdarr \u00b7 Audiobookshelf",
+        "detail": "Subtitles, requests, Plex telemetry, collections, encoding and audio libraries respectively. Add only when a need appears. A provider\u2019s read-only library does not become writable because you install these tools locally.",
+        "keys": "T3 T4 T7 T8 T9 T12",
+        "tags": ""
+      },
+      {
+        "title": "Before declaring it operational",
+        "lead": "Five-user revocation + exact-device playback + five-viewer load",
+        "detail": "Also verify 10Gb negotiation, supported expansion, second-NAS failure behavior, VPN disconnect/remote reachability and a real restore. The report includes pass/fail criteria rather than unsupported guarantees.",
+        "keys": "",
+        "tags": ""
+      },
+      {
+        "title": "What is complete today",
+        "lead": "Research, written report, offline explorer, printable map and MP3",
+        "detail": "This is the finished decision/design package. No hardware, production server or customer accounts were deployed. Live purchase prices, source availability and app-store coverage can change; the source register records evidence and gaps.",
+        "keys": "",
+        "tags": ""
+      }
+    ]
+  }
+]

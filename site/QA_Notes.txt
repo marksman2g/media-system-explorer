@@ -1,0 +1,12 @@
+PACKAGE VALIDATION — OCTOBER 7, 2026
+
+Written PDF: 38 pages rendered and reviewed; no extracted text blocks outside page bounds. Comparison-table samples and the page contact sheet inspected. PDF has navigable bookmarks.
+Printable mind map: one A3 landscape page rendered and visually reviewed, with a central root, eight main branches and explicit second-level subjects.
+HTML: 35 expandable detail nodes. Search, overview/expand controls, internal source navigation, report tab and capacity calculations tested. Mobile viewport checked for horizontal overflow. No JavaScript errors or external network requests during the offline browser test.
+HTML test limitation: the managed browser in the research environment blocks file:// navigation by administrator policy. Its complete HTML was therefore tested in an offline browser document using the same embedded markup and scripts. Normal local-file opening was not directly exercised in that managed browser. There are no remote data or module dependencies; normal modern browsers can use the self-contained document locally unless their own policy forbids it.
+Audio: MP3 metadata and duration inspected; complete file decoded without errors. Transcript and narration use the same final recommendations; technical-name pronunciation substitutions change sounds, not meaning. Voice is synthetic, not a human recording.
+Local links: checked against the delivered file set; internal report source anchors resolved.
+ZIP: integrity tested after creation. SHA-256 file manifest included.
+
+NOT A PRODUCTION TEST
+No benchmark of NAS hardware or your actual clients; no account revocation test against your provider; no actual torrent transfer; no storage deployment. These remain explicitly identified validation gates in the report.

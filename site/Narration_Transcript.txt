@@ -1,0 +1,119 @@
+YOUR MEDIA SYSTEM — PLAIN-LANGUAGE AUDIO OVERVIEW
+Prepared for Tony. October 7, 2026. Version 1.1.
+This narration accompanies the finished report and includes the added torrent-source research. The voice is computer-generated.
+
+CHAPTER 1. THE BIG DECISION.
+
+Tony, the most important decision is not which big storage box to buy. It is whether you want to access someone else's media, keep your own media, or do both.
+
+These are two separate paths. Neither has to come first technically. But for your situation, I recommend solving the external-provider problem first. That can improve the service you already use without buying thousands of dollars of storage.
+
+With an external provider, the content stays on the provider's system. Your television or phone connects through a compatible app and an authorized account. You usually do not need a home server or a network storage box at all.
+
+With your own collection, the files live on equipment you own or administer. A media server organizes them and sends them to your devices. You take responsibility for storage, backups, updates, security and internet upload speed. You can also rent a server off-site, subject to its rules, instead of keeping the equipment at home.
+
+A hybrid keeps both paths available. It does not turn every streaming subscription into files you own.
+
+CHAPTER 2. FIX THE ACCOUNT CONTROL BEFORE CHANGING THE PLAYER.
+
+There are three different jobs: the player shows the picture, the server sends the media, and the account system decides who can get in.
+
+That distinction is crucial with Flix Pro. A player activation may unlock an app. It does not necessarily control the content subscription behind it. Lifetime app activation is not a promise of lifetime content.
+
+Suppose your provider gives you one username and password with five simultaneous connections. You can put that login on five devices, but you do not automatically have five separate customers you can disable independently.
+
+Removing one person's playlist does not cancel a password they already know. They may use it in another app. Changing the shared password affects everyone.
+
+The correct solution is cooperation from the upstream provider. You need separate customer accounts, individually revocable device tokens, or an explicitly authorized management system that truly controls every connection.
+
+The acceptance test is simple. Label the five assignments A, B, C, D and E. Suspend C. Check that C cannot start another stream, find out what happens to an already running stream, and confirm that the other four continue. Change C's credential and verify the old one fails. Until that passes, do not call the access independently managed.
+
+The report compares ten Flix-like players. Free-first candidates include VLC, Kodi, IPTVnator and SS IPTV. The other options are Televizo, TiviMate, iMPlayer, Smarters Pro, SmartOne IPTV and IBO Player. They do not all support the same devices or include the same free features.
+
+iMPlayer can help with centralized device configuration on supported platforms. It still cannot give you authority the provider has not granted. Plex, Jellyfin and Emby are also useful, but they are a different category: clients for a matching media server, not automatic replacements for every IPTV login.
+
+Before buying another activation, test the same authorized source in two players on the same device and network. If both fail, investigate the provider, credentials, connection limits or network first. A nicer player will not fix an upstream outage.
+
+CHAPTER 3. WHERE MEDIA COMES FROM, INCLUDING TORRENTS.
+
+The report covers twenty acquisition routes. Some deliver real files. Others deliver access only.
+
+Discs, authorized tuner recordings, your camera videos, home tapes, creator downloads and transferred family originals can become files. Internet Archive, the Library of Congress and NASA provide useful downloadable material, with item-specific rights and limitations. Bandcamp and the Qobuz download store can deliver purchased music files. Podcasts and authorized cloud or USB transfers are additional paths.
+
+By contrast, Tubi, paid streaming subscriptions, remote-server invitations and licensed IPTV usually keep the media upstream. An app's offline download is not necessarily a file you can place in your own library. Buying access does not transfer copyright.
+
+For DVDs and Blu-rays, use authorized or unprotected material and compatible equipment. HandBrake is an encoder, not a permission slip or a DRM-removal product. For antenna recording, check local reception and the actual channels. An ATSC three point zero tuner does not guarantee encrypted channels will work.
+
+I added your torrent request as a separate research section. The main tools do different jobs. Prowlarr manages sources called indexers. Sonarr manages television episodes. Radarr manages movies. qBittorrent actually transfers the data. The finished files are checked, organized and then scanned by Jellyfin or Plex.
+
+Download these applications from their official projects. You do not need a torrent site to obtain the apps themselves.
+
+The six researched sources are Internet Archive, 1337x, Nyaa, TorrentLeech, EZTV and YTS. Archive is a useful rights-checked direct-download test. The other five have maintained Prowlarr definitions that I checked. That confirms technical integration work exists. It does not prove that every search works today or that every listed file is authorized.
+
+Nyaa is a specialist source rather than a general movie replacement. EZTV is television-focused. YTS is movie-focused and emphasizes small files. TorrentLeech is private and requires legitimate access plus compliance with its rules. Public or private, the source still needs a rights check.
+
+The Reddit sample repeatedly recommended qBittorrent. Some users preferred Usenet, while others said torrents met their needs. There was no honest basis for claiming that all of Reddit agrees on one best website. The report separates opinions from verified documentation and records the review dates.
+
+Common problems included wrong movie matches, broken source links, seeding requirements, and files that remained on disk after the library entry was removed. A successful transfer is not the same as a correct, safe file.
+
+I did not select the original RARBG as a current source, and I did not verify a dependable current continuation of TorrentGalaxy. Old best-site lists can be misleading.
+
+Usenet is a separate alternative. It usually needs an indexer, a provider and a downloader such as SABnzbd. Do not confuse paying for one of those with buying the complete service.
+
+For any authorized torrent workflow, start with one test file. Verify the title, file type, sound, subtitles and playback. Keep administration private. Be suspicious of prompts to install a special codec or run a copied command. Where PIA is the chosen route, test the client's actual network-interface binding and disconnect behavior.
+
+None of this is necessary just to watch someone else's read-only library. A provider's IPTV account does not become a writable server because you install Sonarr on your computer.
+
+CHAPTER 4. STORAGE ONLY WHEN YOU CHOOSE TO KEEP FILES.
+
+For the owned-library path, my recommended design is an ASUSTOR AS6810T for storage, plus a separate Intel graphics-capable computer for media serving and transcoding.
+
+This NAS has ten actual hard-drive bays and built-in ten-gigabit networking. It does not have an integrated video graphics engine. Separating the jobs lets you upgrade video processing without replacing the storage box.
+
+Only one clearly current exact-ten-bay fit was verified in the shortlist. The older AS6510T is an additional conditional option. The other eight models are labelled as eight- or twelve-hard-drive alternatives. Small SSD slots are not counted as large hard-drive bays.
+
+Start with four equal, approved CMR drives in RAID six. Four drives let you begin with two-drive parity protection. A three-drive start would require a different protection choice. Confirm the exact drive model on the compatibility list before buying.
+
+Here is the capacity example. Ten drives of twenty-six terabytes each total two hundred sixty terabytes raw. With two drives' worth of parity, the arithmetic leaves two hundred eight terabytes before filesystem overhead. The computer may display about one hundred eighty-nine tebibytes because it uses different units.
+
+Keeping twenty percent free leaves about one hundred sixty-six terabytes as a comfortable working target. So, two hundred terabytes after parity is not the same as two hundred terabytes of working media with spare room. The twenty-six-terabyte size is an illustration, not a confirmed purchase choice.
+
+The price example is expensive. The listed NAS and four example twenty-six-terabyte drives, plus computer, networking and other allowances, produce a starting estimate of roughly eight thousand to nine thousand dollars before tax. That is not a fixed quote. The drive listings were unusually high, so compatibility and value need another check before money is committed.
+
+This is another reason not to buy storage until you decide you really want to own the files.
+
+CHAPTER 5. EXPANSION WITHOUT STARTING FROM SCRATCH.
+
+Adding a supported drive normally does not mean wiping the library. The system may reshape parity or rebalance data in the background. A rebuild after a failed drive reconstructs missing information. These operations can take days and slow the system down, even when files remain available.
+
+The exact behavior depends on the operating system, RAID type, drive sizes and health of the array. Verify backups before an expansion. Do not mistake fault tolerance for a second copy of your files.
+
+When the first NAS fills, my preferred next step is another independent NAS on the ten-gigabit network. The media computer mounts both and presents one movie or television library.
+
+That gives you one catalog, not one merged storage pool. If the second NAS fails, its content is unavailable, while the healthy first NAS should remain usable. Test that behavior, especially automatic library cleanup when a network share disappears.
+
+Expansion enclosures are different. They depend on a compatible host and connection, and can share its failure risks. The AS6004U connection is five-gigabit USB, not ten-gigabit Ethernet. Software can also combine folder views, but a combined view does not create backup or redundancy.
+
+CHAPTER 6. PLAYBACK, INTERNET AND SUPPORTING TOOLS.
+
+Ten-gigabit networking is for the local path between the NAS, switch and media computer. The whole path needs compatible ports, cards and cables. It does not make your internet upload faster.
+
+For example, five streams at eight megabits per second use forty megabits of payload. Around sixty megabits of stable upload is a planning allowance for that example, not a promise for all high-definition files. High-bitrate four-K can need far more.
+
+Direct play means the viewing device decodes the original file. Transcoding means the server converts it. Video format, HDR tone mapping, sound and subtitle burn-in can change the workload dramatically. Five streams that play directly are very different from five difficult four-K conversions. The actual devices and files must be tested together.
+
+Jellyfin is the free-first choice for the owned server. Plex may justify its cost when its client support solves a real problem. Its remote-viewing rules and server hardware-acceleration entitlement are separate. The checked Remote Watch Pass price is two dollars ninety-nine cents monthly or twenty-nine dollars ninety-nine cents yearly. A qualifying server administrator's Plex Pass can cover remote viewing eligibility for that server's viewers. Emby is another option with its own paid features and household terms.
+
+Keep the optional tools optional. Bazarr helps with subtitles. Seerr handles requests. Tautulli helps inspect Plex usage. Kometa organizes collections. Tdarr coordinates encoding. None replaces sound folders, correct permissions and working backups.
+
+PIA should not automatically tunnel every service. A blanket VPN or kill switch can interfere with local shares and remote playback. Keep the intended download route isolated, keep administration private, and test the final network setup from outside your home.
+
+CHAPTER 7. WHAT IS FINISHED AND WHAT COMES NEXT.
+
+The completed package contains the written report, an expandable offline HTML mind map, a one-page printable map, this MP3 and its transcript. The HTML includes the full report and works without internet. Opening the linked source websites still requires an internet connection.
+
+No hardware was bought, no provider accounts were changed and no live media service was deployed. Those are real implementation steps requiring the chosen equipment and authorized access.
+
+The order of decisions is clear. First, solve individual upstream account control and test the player on your actual devices. Second, decide whether you want to keep a collection. Third, buy only the compatible storage and computing power that the collection and real viewing tests justify.
+
+The main idea, Tony, is simple: control the access, separate storage from video processing when that helps, and expand one library without pretending that separate boxes have become one indestructible system.

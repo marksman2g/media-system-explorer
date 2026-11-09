@@ -1,0 +1,650 @@
+{
+  "F1": {
+    "title": "Flix Pro Player: activation, playlist management and reseller entry",
+    "url": "https://flixproplayer.com/en-US",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "F2": {
+    "title": "iMPlayer: platforms, cloud management and pricing",
+    "url": "https://implayer.tv/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "F3": {
+    "title": "Smarters Pro: supported platforms and feature tiers",
+    "url": "https://smarterspro.com/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "F4": {
+    "title": "TiviMate official player",
+    "url": "https://tivimate.com/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "F5": {
+    "title": "Televizo official player",
+    "url": "https://televizo.net/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "F6": {
+    "title": "IPTVnator project: features and releases",
+    "url": "https://github.com/4gray/iptvnator",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "F7": {
+    "title": "Kodi: official downloads and platform list",
+    "url": "https://kodi.tv/download/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "F8": {
+    "title": "VideoLAN: VLC official downloads",
+    "url": "https://www.videolan.org/vlc/",
+    "date": "Retrieval limited; confirm exact app-store version",
+    "kind": "Official; limited retrieval"
+  },
+  "F9": {
+    "title": "SS IPTV operator authentication integration",
+    "url": "https://ss-iptv.com/en/operators/authorization",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "F10": {
+    "title": "SS IPTV official service",
+    "url": "https://ss-iptv.com/en/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "F11": {
+    "title": "SmartOne IPTV: platforms",
+    "url": "https://smartone-iptv.com/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "F12": {
+    "title": "SmartOne: device management",
+    "url": "https://smartone-iptv.com/manage-devices",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "F13": {
+    "title": "IBO Player: activation and device notes",
+    "url": "https://frontend.iboplayer.com/news",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "F14": {
+    "title": "IBO Player activation terms",
+    "url": "https://activation.iboplayer.com/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "P1": {
+    "title": "Plex plans and remote-viewing eligibility",
+    "url": "https://www.plex.tv/plans/",
+    "date": "Checked October 7, 2026; Remote Watch pricing effective June 1, 2026",
+    "kind": "Official"
+  },
+  "P2": {
+    "title": "Plex supported smart TVs",
+    "url": "https://support.plex.tv/articles/204080173-which-smart-tv-models-are-supported/",
+    "date": "Updated January 21, 2025; checked October 7, 2026",
+    "kind": "Official"
+  },
+  "P3": {
+    "title": "Plex app/platform list",
+    "url": "https://www.plex.tv/apps-devices/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "P4": {
+    "title": "Plex terms attached to software downloads",
+    "url": "https://www.plex.tv/media-server-downloads/",
+    "date": "Terms dated October 30, 2025; checked October 7, 2026",
+    "kind": "Official"
+  },
+  "J1": {
+    "title": "Jellyfin client directory",
+    "url": "https://jellyfin.org/clients/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "J2": {
+    "title": "Jellyfin: all client downloads",
+    "url": "https://jellyfin.org/downloads/clients/all/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "J3": {
+    "title": "Jellyfin hardware selection",
+    "url": "https://jellyfin.org/docs/general/administration/hardware-selection/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "J4": {
+    "title": "Jellyfin client documentation",
+    "url": "https://jellyfin.org/docs/general/clients/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "E1": {
+    "title": "Emby server and app downloads",
+    "url": "https://emby.media/download.html",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "E2": {
+    "title": "Emby Premiere: pricing and device entitlement",
+    "url": "https://emby.media/premiere.html",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "N1": {
+    "title": "ASUSTOR AS6810T hardware specifications",
+    "url": "https://www.asustor.com/product/spec?p_id=89",
+    "date": "Indexed official specifications checked October 7, 2026; direct retrieval intermittently blocked",
+    "kind": "Official"
+  },
+  "N2": {
+    "title": "ASUSTOR Lockerstor Gen3 product family",
+    "url": "https://www.asustor.com/product/AS68",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "N3": {
+    "title": "ASUSTOR AS6510T hardware specifications",
+    "url": "https://www.asustor.com/product/spec?p_id=64",
+    "date": "Indexed official specifications; older model, current supply uncertain",
+    "kind": "Official"
+  },
+  "N4": {
+    "title": "QNAP TS-1655 hardware specifications",
+    "url": "https://www.qnap.com/en-us/product/ts-1655/specs/hardware",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "N5": {
+    "title": "Synology DS2422+ specifications",
+    "url": "https://www.synology.com/en-us/products/DS2422%2B",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "N6": {
+    "title": "Synology DS3622xs+ specifications",
+    "url": "https://www.synology.com/en-us/products/DS3622xs%2B",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "N7": {
+    "title": "QNAP TVS-AIh1688ATX product specifications",
+    "url": "https://www.qnap.com/en-us/product/tvs-aih1688atx",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "N8": {
+    "title": "QNAP TVS-h874 hardware specifications",
+    "url": "https://www.qnap.com/en-us/product/tvs-h874/specs/hardware",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "N9": {
+    "title": "QNAP TS-1273AU-RP hardware specifications",
+    "url": "https://www.qnap.com/en-us/product/ts-1273au-rp/specs/hardware",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "N10": {
+    "title": "QNAP TS-1232PXU-RP hardware specifications",
+    "url": "https://www.qnap.com/en-us/product/ts-1232pxu-rp/specs/hardware",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "N11": {
+    "title": "Synology DS1825+ specifications",
+    "url": "https://www.synology.com/en-us/products/DS1825%2B",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "N12": {
+    "title": "ASUSTOR hardware compatibility selector",
+    "url": "https://www.asustor.com/services/hd",
+    "date": "Exact AS6810T + 26 TB SKU combination not independently confirmed",
+    "kind": "Official; compatibility gate"
+  },
+  "R1": {
+    "title": "ASUSTOR ADM volume management help",
+    "url": "https://www.asustor.com/online/online_help?id=29&lan=jpn",
+    "date": "Official Japanese-language help checked October 7, 2026",
+    "kind": "Official"
+  },
+  "R2": {
+    "title": "Synology storage expansion guide",
+    "url": "https://kb.synology.com/DSM/tutorial/how_to_expand_storage",
+    "date": "Updated March 31, 2026",
+    "kind": "Official"
+  },
+  "R3": {
+    "title": "QuTS hero 5.3: expand a RAID group with disks",
+    "url": "https://docs.qnap.com/operating-system/quts-hero/5.3.x/en-us/expanding-a-storage-pool-by-adding-disks-to-a-raid-group-1D229DFC.html",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "R4": {
+    "title": "QNAP: individual disk expansion introduced in QuTS hero 5.1",
+    "url": "https://www.qnap.com/en-us/how-to/faq/article/can-i-add-an-individual-disk-to-expand-my-storage-pool-in-quts-hero-like-qts",
+    "date": "Published September 19, 2023; checked October 7, 2026",
+    "kind": "Official"
+  },
+  "R5": {
+    "title": "QuTS hero 5.3: add a new RAID group",
+    "url": "https://docs.qnap.com/operating-system/quts-hero/5.3.x/en-us/expanding-a-storage-pool-by-adding-a-new-raid-group-A536B37F.html",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "R6": {
+    "title": "Unraid: adding disks to an array",
+    "url": "https://docs.unraid.net/unraid-os/using-unraid-to/manage-storage/array/adding-disks-to-array/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "R7": {
+    "title": "Unraid: array overview",
+    "url": "https://docs.unraid.net/unraid-os/using-unraid-to/manage-storage/array/overview/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "R8": {
+    "title": "TrueNAS 25.10: pool management and RAIDZ expansion",
+    "url": "https://www.truenas.com/docs/scale/25.10/scaletutorials/storage/managepoolsscale/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "R9": {
+    "title": "mergerfs project documentation",
+    "url": "https://trapexit.github.io/mergerfs/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "R10": {
+    "title": "ASUSTOR AS6004U hardware specifications",
+    "url": "https://www.asustor.com/th/product/AS6004U_belonging?tab=3",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "R11": {
+    "title": "AS6004U independent storage-space product notes",
+    "url": "https://www.adorama.com/ast6004u.html",
+    "date": "Retailer reproduction of manufacturer expansion notes; checked October 7, 2026",
+    "kind": "Retailer"
+  },
+  "R12": {
+    "title": "QuTS hero 5.3: system storage pool",
+    "url": "https://docs.qnap.com/operating-system/quts-hero/5.3.x/en-us/creating-a-storage-pool-F69691A3.html",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "C1": {
+    "title": "AS6810T US price and stock listing",
+    "url": "https://www.bhphotovideo.com/c/product/1869080-REG/asustor_as6810t_lockerstor_gen3_10_bay_nas.html",
+    "date": "Listing retrieved October 7, 2026; stock/price can change",
+    "kind": "Retailer"
+  },
+  "C2": {
+    "title": "QNAP TS-1655 US listing",
+    "url": "https://www.bhphotovideo.com/c/product/1745877-REG/qnap_ts_1655_8g_us_16bay_desktop_nas_intel_atom.html",
+    "date": "Listing retrieved October 7, 2026",
+    "kind": "Retailer"
+  },
+  "C3": {
+    "title": "DS2422+ US listing",
+    "url": "https://www.bhphotovideo.com/c/product/1674616-REG/synology_discstation_ds2422_12bay_nas.html/specs",
+    "date": "Listing retrieved October 7, 2026",
+    "kind": "Retailer"
+  },
+  "C4": {
+    "title": "TVS-AIh1688ATX US listing",
+    "url": "https://www.bhphotovideo.com/c/product/1928302-REG/qnap_tvs_aih1688atx_u9_48g_us_16_bay_quts_hero_nas.html/overview",
+    "date": "Listing retrieved October 7, 2026",
+    "kind": "Retailer"
+  },
+  "C5": {
+    "title": "TS-1273AU-RP manufacturer store",
+    "url": "https://store.qnap.com/ts-1273au-rp-8g-us.html",
+    "date": "Listed $2,599; page also indicates preorder/lead time",
+    "kind": "Manufacturer store"
+  },
+  "C6": {
+    "title": "TS-1232PXU-RP US listing",
+    "url": "https://www.bhphotovideo.com/c/product/1596836-REG/qnap_ts_1232pxu_rp_4g_us_qnap_2u_12_bay_arm_based.html/overview",
+    "date": "Listing retrieved October 7, 2026",
+    "kind": "Retailer"
+  },
+  "C7": {
+    "title": "AS6510T older-model marketplace listing",
+    "url": "https://www.ebay.com/itm/297619620269",
+    "date": "Indexed new-stock offer $1,595; live inventory/warranty not confirmed",
+    "kind": "Marketplace; conditional"
+  },
+  "C8": {
+    "title": "WD Red Pro 26 TB price",
+    "url": "https://www.adorama.com/wd-red-pro-3-5-sata-iii-internal-nas-hard-drive-hdd-7200rpm/p/wd260kfgx",
+    "date": "Listed $1,144.99; checked October 7, 2026",
+    "kind": "Retailer"
+  },
+  "C9": {
+    "title": "WD Red Pro 26 TB second price and availability",
+    "url": "https://www.bhphotovideo.com/c/product/1875011-REG/wd_wd260kfgx_spcngn0_wd_red_pro_26tb.html/specs",
+    "date": "Listed $1,240.99; temporarily out of stock; checked October 7, 2026",
+    "kind": "Retailer"
+  },
+  "C10": {
+    "title": "WD Red Pro 26 TB third price",
+    "url": "https://www.cdw.com/product/western-digital-red-pro-26tb-nas-hard-drive-3.5-sata-7200rpm-cmr/8268022",
+    "date": "Listed $1,312.99; checked October 7, 2026",
+    "kind": "Retailer"
+  },
+  "A1": {
+    "title": "HandBrake: capabilities and copy-protection limitations",
+    "url": "https://handbrake.fr/docs/en/1.9.0/introduction/about.html",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "A2": {
+    "title": "HandBrake: source formats including camera and analog captures",
+    "url": "https://handbrake.fr/docs/en/1.8.0/technical/source-formats.html",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "A3": {
+    "title": "Silicondust HDHomeRun current lineup and DVR pricing",
+    "url": "https://www.silicondust.com/hdhomerun.html",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "A4": {
+    "title": "HDHomeRun FLEX 4K: DRM restrictions and price",
+    "url": "https://shop.silicondust.com/shop/product/hdfx-4k/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "A5": {
+    "title": "Internet Archive help and download categories",
+    "url": "https://help.archive.org/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "A6": {
+    "title": "Library of Congress Free to Use and Reuse: public-domain film selection",
+    "url": "https://www.loc.gov/free-to-use",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "A7": {
+    "title": "NASA media usage guidelines",
+    "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "A8": {
+    "title": "Bandcamp purchase download formats",
+    "url": "https://get.bandcamp.help/en/articles/15263234-in-which-formats-can-i-download-my-purchases",
+    "date": "Published June 12, 2026",
+    "kind": "Official"
+  },
+  "A9": {
+    "title": "Qobuz download store",
+    "url": "https://www.qobuz.com/us-en/shop",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "A10": {
+    "title": "Netflix offline-download expiration rules",
+    "url": "https://help.netflix.com/en/node/54865",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "A11": {
+    "title": "Tubi supported devices",
+    "url": "https://tubitv.com/static/devices",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "A12": {
+    "title": "Tubi: free supported-platform overview",
+    "url": "https://tubitv.com/en-gb/welcome",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "A13": {
+    "title": "Vimeo On Demand shutdown notice",
+    "url": "https://vimeo.com/ondemand/shutdown",
+    "date": "New purchases stopped September 21, 2026; shutdown November 20, 2026",
+    "kind": "Official"
+  },
+  "A14": {
+    "title": "Vimeo: downloadable existing purchases",
+    "url": "https://help.vimeo.com/hc/en-us/articles/22089479757841-How-to-download-On-Demand-videos",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "A15": {
+    "title": "U.S. Copyright Office: 2024 Section 1201 proceeding",
+    "url": "https://www.copyright.gov/1201/2024/",
+    "date": "2024 rulemaking; checked October 7, 2026",
+    "kind": "Official"
+  },
+  "A16": {
+    "title": "U.S. Copyright Office: anti-circumvention explanation",
+    "url": "https://www.copyright.gov/1201/2018/faqs.html",
+    "date": "Historical statutory explanation; not a substitute for current exemptions",
+    "kind": "Official"
+  },
+  "T1": {
+    "title": "Sonarr official documentation and path/permissions cautions",
+    "url": "https://sonarr.tv/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "T2": {
+    "title": "Radarr official documentation",
+    "url": "https://radarr.video/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "T3": {
+    "title": "Bazarr official project",
+    "url": "https://www.bazarr.media/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "T4": {
+    "title": "Seerr official documentation",
+    "url": "https://docs.seerr.dev/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "T5": {
+    "title": "Prowlarr official project",
+    "url": "https://github.com/Prowlarr/Prowlarr",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "T6": {
+    "title": "tinyMediaManager documentation",
+    "url": "https://www.tinymediamanager.org/docs/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "T7": {
+    "title": "Tautulli official project",
+    "url": "https://tautulli.com/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "T8": {
+    "title": "Kometa official documentation",
+    "url": "https://kometa.wiki/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "T9": {
+    "title": "Tdarr official documentation",
+    "url": "https://docs.tdarr.io/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "T10": {
+    "title": "rclone official documentation",
+    "url": "https://rclone.org/docs/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "T11": {
+    "title": "restic official documentation",
+    "url": "https://restic.readthedocs.io/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "T12": {
+    "title": "Audiobookshelf official project",
+    "url": "https://www.audiobookshelf.org/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "V1": {
+    "title": "PIA Windows 10/11 setup, LAN and port-forwarding behavior",
+    "url": "https://helpdesk.privateinternetaccess.com/hc/en-us/articles/46565662533915-Windows-10-and-11-Installing-and-Using-the-PIA-App",
+    "date": "Published/updated September 2026; checked October 7, 2026",
+    "kind": "Official"
+  },
+  "V2": {
+    "title": "PIA Android setup",
+    "url": "https://helpdesk.privateinternetaccess.com/hc/en-us/articles/46816642236443-Android-Installing-and-Setting-Up-the-PIA-App",
+    "date": "Published/updated September 2026; checked October 7, 2026",
+    "kind": "Official"
+  },
+  "U1": {
+    "title": "Reddit: NAS shares mounted by a separate Jellyfin host",
+    "url": "https://www.reddit.com/r/homelab/comments/1kq0e1v/beginner_post/",
+    "date": "May 19, 2025",
+    "kind": "Community anecdote, not a benchmark"
+  },
+  "U2": {
+    "title": "Reddit: reused older PC and Quick Sync configuration problems",
+    "url": "https://www.reddit.com/r/selfhosted/comments/1sb6b7j/where_to_start/",
+    "date": "April 3, 2026",
+    "kind": "Community anecdote, not a benchmark"
+  },
+  "U3": {
+    "title": "SynoForum: NAS plus Mac mini; reverse-proxy/certificate trouble",
+    "url": "https://www.synoforum.com/threads/nas-but-also-mac-mini.15775/",
+    "date": "February 16\u201318, 2026",
+    "kind": "Community anecdote"
+  },
+  "U4": {
+    "title": "TrueNAS forum: RAIDZ expansion discussion",
+    "url": "https://forums.truenas.com/t/raidz-expansion-multiple-disks-at-once/42675",
+    "date": "2025 discussion; current behavior checked against TrueNAS 25.10 docs",
+    "kind": "Community discussion"
+  },
+  "D1": {
+    "title": "Internet Archive: using Archive BitTorrents",
+    "url": "https://help.archive.org/help/archive-bittorrents/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "D2": {
+    "title": "qBittorrent official project and downloads",
+    "url": "https://www.qbittorrent.org/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "D3": {
+    "title": "qBittorrent official options: network-interface binding",
+    "url": "https://github.com/qbittorrent/qBittorrent/wiki/Explanation-of-Options-in-qBittorrent",
+    "date": "Wiki edited September 3, 2026; checked October 7, 2026",
+    "kind": "Official"
+  },
+  "D4": {
+    "title": "Prowlarr maintained definition: 1337x",
+    "url": "https://raw.githubusercontent.com/Prowlarr/Indexers/master/definitions/v11/1337x.yml",
+    "date": "Definition retrieved October 7, 2026; integration evidence, not an uptime or licensing test",
+    "kind": "Official"
+  },
+  "D5": {
+    "title": "Prowlarr maintained definition: Nyaa.si",
+    "url": "https://raw.githubusercontent.com/Prowlarr/Indexers/master/definitions/v11/nyaasi.yml",
+    "date": "Definition retrieved October 7, 2026; integration evidence, not an uptime or licensing test",
+    "kind": "Official"
+  },
+  "D6": {
+    "title": "Prowlarr maintained definition: TorrentLeech",
+    "url": "https://raw.githubusercontent.com/Prowlarr/Indexers/master/definitions/v11/torrentleech.yml",
+    "date": "Definition retrieved October 7, 2026; login and live account not tested",
+    "kind": "Official"
+  },
+  "D7": {
+    "title": "Prowlarr maintained definition: EZTV",
+    "url": "https://raw.githubusercontent.com/Prowlarr/Indexers/master/definitions/v11/eztv.yml",
+    "date": "Definition retrieved October 7, 2026; primary hostname is eztvx.to",
+    "kind": "Official"
+  },
+  "D8": {
+    "title": "Prowlarr maintained definition: YTS",
+    "url": "https://raw.githubusercontent.com/Prowlarr/Indexers/master/definitions/v11/yts.yml",
+    "date": "Definition retrieved October 7, 2026; primary hostname is yts.gg",
+    "kind": "Official"
+  },
+  "D9": {
+    "title": "SABnzbd official Usenet downloader",
+    "url": "https://sabnzbd.org/",
+    "date": "Live page checked October 7, 2026",
+    "kind": "Official"
+  },
+  "D10": {
+    "title": "TorrentGalaxy staff describe prolonged outage and stopped bots",
+    "url": "https://torrentfreak.com/torrentgalaxy-staff-fear-the-worst-as-site-stays-dark-and-upload-bots-fail-250314/",
+    "date": "March 14, 2025; historical outage report, not proof of October 2026 status",
+    "kind": "Reported staff interview / TorrentFreak"
+  },
+  "U5": {
+    "title": "Reddit: indexer recommendations, torrents versus Usenet",
+    "url": "https://www.reddit.com/r/selfhosted/comments/1pq08vr/aaaarrrrr_where_be_ye_finding_indexers/",
+    "date": "Reviewed October 7, 2026; retrieved page displays 9mo ago; exact publication date unavailable",
+    "kind": "Community discussion; qualitative sample"
+  },
+  "U6": {
+    "title": "Reddit: Sonarr indexers and confusion between providers and indexers",
+    "url": "https://www.reddit.com/r/sonarr/comments/1uq08pk/indexers/",
+    "date": "Reviewed October 7, 2026; retrieved page displays 3mo ago; exact publication date unavailable",
+    "kind": "Community discussion; qualitative sample"
+  },
+  "U7": {
+    "title": "Reddit: client-crash discussion and qBittorrent recommendations",
+    "url": "https://www.reddit.com/r/torrents/comments/1wkn248/my_utorrent_keeps_crashing_randomly_while_a/",
+    "date": "Reviewed October 7, 2026; cached page displays 22h ago; not treated as a publication date",
+    "kind": "Community discussion; qualitative sample"
+  },
+  "U8": {
+    "title": "Reddit: Radarr cleanup, hard links and continued seeding",
+    "url": "https://www.reddit.com/r/radarr/comments/1w9vmga/radarr_cleanup_solution/",
+    "date": "Reviewed October 7, 2026; retrieved page displays 19d ago; exact publication date unavailable",
+    "kind": "Community problem report; qualitative sample"
+  },
+  "U9": {
+    "title": "Reddit: wrong movie with same title and year",
+    "url": "https://www.reddit.com/r/radarr/comments/1w4u6tb/radarr_autograbbing_wrong_movie_same_movie_title/",
+    "date": "Reviewed October 7, 2026; retrieved page displays 16d ago; exact publication date unavailable",
+    "kind": "Community problem report; unresolved, not a universal software defect"
+  },
+  "U10": {
+    "title": "Reddit: historical cartoon indexers and RARBG closure",
+    "url": "https://www.reddit.com/r/prowlarr/comments/13yuae6/good_indexers_for_2000_cartoons/",
+    "date": "June 3, 2023; deliberately historical, reviewed October 7, 2026",
+    "kind": "Community discussion; not current availability evidence"
+  }
+}

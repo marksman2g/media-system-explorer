@@ -6,13 +6,15 @@ The `site/` directory is the complete public website: a responsive landing page,
 
 ## Publishing status
 
-The verified research package is being published to this dedicated repository. Current deployment status is recorded in `PUBLICATION_STATUS.json`. No provider credentials or customer records are included.
+Published and verified November 9, 2026: **https://marksman2g.github.io/media-system-explorer/**
+
+The landing page, explorer, report, maps, MP3, transcript and offline ZIP were verified accessible without signing in. Search, topic expansion, the embedded report and capacity calculations were checked in the live explorer. The original research files are unchanged. Deployment details are recorded in `PUBLICATION_STATUS.json`. No provider credentials or customer records are included.
 
 ## Publishing configuration
 
-This dedicated `media-system-explorer` repository uses `main` as its default branch. Set repository Settings > Pages > Build and deployment > Source to **GitHub Actions**. The included workflow publishes only `site/`, not the repository metadata. Repository administration and push permissions are required for initial setup.
+This dedicated `media-system-explorer` repository uses `main` as its default branch. GitHub Pages is configured with **GitHub Actions** as its source. The included workflow publishes only `site/`, not the repository metadata. Repository administration and push permissions are required for initial setup.
 
-After publication, use the URL returned by the successful GitHub Pages deployment. Verify that URL while signed out before sharing it. Do not treat an inferred URL as a confirmed live site.
+The public URL above was returned by the successful GitHub Pages deployment and independently verified without signing in.
 
 Official deployment documentation: https://docs.github.com/en/get-started/start-your-journey/deploying-your-website-automatically
 

@@ -1,8 +1,16 @@
 {
-  "status": "publication_in_progress",
+  "status": "published_verified",
   "blocker": null,
   "repository": "https://github.com/marksman2g/media-system-explorer",
-  "public_url": null,
+  "public_url": "https://marksman2g.github.io/media-system-explorer/",
+  "verified_date": "2026-11-09",
+  "verified_content_commit": "7981f1dce77c52bf4253121d68f2a11a510f8f69",
+  "successful_deployment_run": "https://github.com/marksman2g/media-system-explorer/actions/runs/42642400278",
+  "verification": {
+    "anonymous_http": "All primary pages and downloadable assets returned HTTP 200 with expected content types and exact file lengths.",
+    "browser": "Landing page, explorer search and reset, expand and overview controls, embedded report, and capacity calculator passed.",
+    "source_files": "All site files retain the original source bytes."
+  },
   "source_version": "1.1",
   "source_date": "2026-10-07",
   "publishing_edition": "GitHub Pages 1"
